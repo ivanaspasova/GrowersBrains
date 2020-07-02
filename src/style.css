@@ -1,0 +1,81 @@
+#growgreen{
+    background-image: url("https://lh3.googleusercontent.com/VYODXw4LUete9ggiClswbULBp7MgIGkV-R-y0xIeJJcaorXosXnRhd8nr7N_60YUTPpfEF8lgrXW4FbNUeq5L7t9A1WhzFzR6GR2VFaWa9nf5ey_ApSPQimsdE-lXyL30zXXjJdK6Q=w2400");
+    background-size: cover;
+    height: 750px;
+}
+
+
+h1{
+    text-align: center;
+    padding-top: 80px;
+    font-family:Georgia;
+
+
+}
+
+#designedp{
+    font-size: 20px;
+    text-align: center;
+}
+
+/* #getstartedbtn{
+    margin-left:500px;
+} */
+
+
+#funtogrowp{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+#funtogrow{
+    background-image: url("https://images.unsplash.com/photo-1506143925201-0252c51780b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80");
+    background-size: cover;
+    padding: 20px;
+}
+
+#funtogrowh1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#greenhouse{
+    padding-top: 20px;
+}
+.greenhouseimg{
+    margin-left: 120px;
+}
+#emailform{
+    margin-left: 450px;
+    
+}
+
+#emailfield{
+    background-color: rgb(239, 245, 243);
+    padding-bottom: 50px;
+    margin-top:20px
+}
+
+#sendbtn{
+    margin-left: 60px;
+    width: 80px;
+
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footerfield{
+padding-bottom: 20px;
+}
+
+#bestproductsimg{
+    margin-left: 20px;;
+}
+#bestproducts{
+    /* margin-left: 150px;
+    width: 800px; */
+    /* margin-right:200px ;
+    margin-bottom: 20px; */
+}
